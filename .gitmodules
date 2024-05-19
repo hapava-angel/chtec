@@ -1,0 +1,6 @@
+[submodule "wt_front"]
+	path = wt_front
+	url = https://github.com/nellialeksanian/wt_front.git
+[submodule "wt_back"]
+	path = wt_back
+	url = https://github.com/hapava-angel/wt_back.git
